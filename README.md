@@ -31,6 +31,3 @@
 
 ##
 
-<div>
-    ![Snake animation](https://github.com/joseircavassani/joseircavassani/blob/output/github-contribution-grid-snake.svg)
-</div>
