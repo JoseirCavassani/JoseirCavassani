@@ -1,3 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A98B9&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3A98B9&size=35&center=true&vCenter=true&width=1000&lines=HI,+I'm+Joseir+Cavassani+Da+Paz;Front+End+Developer;Welcome!+:%29)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m @JoseirCavassani
 - 👀 I’m interested in Front-End
 - 🌱 I’m currently Studyng Software Engineering at Skills City
@@ -31,3 +35,4 @@
 
 ##
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A98B9&height=120&section=footer"/>
